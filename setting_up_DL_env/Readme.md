@@ -33,7 +33,7 @@ To install and uninstall libraries using pip and conda
     
  Installing libraries for our DL environment
  
-    pip install opencv-python 
+    pip install opencv-python==3.3.0.10 
     pip install tensorflow==1.4.0
     pip install keras
 
