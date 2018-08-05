@@ -1,7 +1,6 @@
 To setup the deep learning following softwares/libraries need to be installed
 
   1. Anaconda 3 for windows - https://conda.io/docs/user-guide/install/index.html
-  
                             - https://www.anaconda.com/download/
   2. python >=3.5 (default 3.6 is installed , to get 3.5 create a anaconda environment)
   3. Pandas (will be default installed by anaconda)
