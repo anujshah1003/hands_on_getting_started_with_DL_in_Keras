@@ -8,7 +8,7 @@
   5. numpy (default installed by anaconda)
   6. opencv >= 3.3
   7. tensorflow = 1.4.0
-  8. keras - 2
+  8. keras - 2 - https://keras.io/
   
 #To create an anaconda environment
   
